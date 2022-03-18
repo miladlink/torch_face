@@ -140,7 +140,7 @@ while cap.isOpened():
         break
 ```
 
-https://user-images.githubusercontent.com/81680367/158949518-aaa15712-a6d3-4085-85b4-1a27d4cad2b5.mp4
+![camera](https://user-images.githubusercontent.com/81680367/158981339-6214a3b6-a2e7-48e6-a83d-170455102d5f.gif)
 
 
 ### Video
